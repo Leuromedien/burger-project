@@ -1,3 +1,7 @@
+body {
+    background-color: #eb4d4b;
+}
+
 p {
     display: flex;
     justify-content: center;
